@@ -41,7 +41,7 @@ Step 5 : For App Profile for Commvault Backup, Pre-start and Post-start script i
 
 Step 6 : For App Profile for Commvault Restore, Pre-start and Post-start script in service Initialization Actions are pre-configured with paths mentioned in section "Service Initialization actions / Node Initialization & Clean Up". Sample App Profile has been given for demo.
 
-Step 7 : Verify whether the commvault app package zip file is placed correctly in file Repository. By default, it will be under apps/<your-packages>.
+Step 7 : Verify whether the commvault app package zip file is placed correctly in file Repository. By default, it will be under apps/<your-package>
 
 Step 8 : Login into your Cloud Center Suite with your credentials namely IP address, Email address, Password & Tenant ID. Navigate to App profiles section under Workload Manager.
  - Click on "Import" button found on the top right corner of App profiles section. You will be prompted to choose the application profile that needs to be imported.
